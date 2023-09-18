@@ -30,15 +30,15 @@ global.owner = [
   ['595992611272']
 ];
 
-global.suittag = ['5219993404349'];
-global.prems = ['51995386439'];
+global.suittag = ['59162055926'];
+global.prems = ['59162055926'];
 
 global.packname = '(☞ﾟ∀ﾟ)☞';
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
+global.author = '★Edwin-Bot';
 global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
 global.titulowm = '🤖 ＴＨＥ ＭＹＳＴＩＣ － ＢＯＴ 🤖';
 global.titulowm2 = `乂  𝚃 𝙷 𝙴  𝙼 𝚈 𝚂 𝚃 𝙸 𝙲  -  𝙱 𝙾 𝚃  乂`
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
+global.igfg = '★Dios-Polar - 𝙱𝚘𝚝★';
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -62,12 +62,12 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 global.wm2 = `▸ ${dia} ${fecha}\n▸ Dios-Polar-𝙱𝚘𝚝`;
 global.gt = '★Dios-Polar-𝙱𝚘𝚝★';
 global.mysticbot = '★Dios-Polar-𝙱𝚘𝚝★';
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
+global.md = 'https://github.com/Rodrigo00811/DiOS-POLAR-MD';
+global.mysticbot = 'https://github.com/Rodrigo00811/DiOS-POLAR-MD';
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
-global.nomorown = '5219993404349';
+global.nomorown = '59162055926';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
